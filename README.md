@@ -1,5 +1,5 @@
 # car_parking_management_system
- When the car arrives the controller displays 4 choices that are arrival, total number of cars parked, total cost and delete. According to the choices given by the controller the customer chooses the required option and fills details accordingly. The admin looks after all these operations. 
+ When the car arrives the controller displays 4 choices that are arrival, total number of cars parked, total cost and delete. According to the choices given by the controller the customer chooses the required option and fills details accordingly. The admin looks after all these operations.  
  Customer:
 • Chooses from the given 4 option.
 ->Arrival
